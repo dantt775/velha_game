@@ -1,0 +1,3 @@
+rootProject.name = 'velha_game'
+
+include ':app'
